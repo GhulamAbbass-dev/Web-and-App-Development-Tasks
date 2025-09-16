@@ -1,0 +1,70 @@
+class #49
+js class#2
+
+'In The middle of every difficulty lies opportunity'
+
+             `Albert Einstein
+
+
+class 50
+
+modeule 1 Quiz
+
+              "Day/3"
+
+
+class 51
+
+js class #03
+module #2 
+
+        'life is mostly reaction, not circumstance'
+
+              " Type of programming"
+1: procedural prog
+2:functional 
+3:opps ( class and object)
+
+
+1: Block Scope
+{
+ Whatever Value is initializes within block scope,only accessible within its
+
+}
+
+
+ 2:Global Scope
+{
+
+
+whenever we initialize value at top ot out the scope can be accesed within who
+
+
+}
+
+
+
+class #51
+
+js class#04
+
+' Desire Without  action is only a wish'
+
+
+
+
+
+
+class#52
+
+'Never Let Other define your Limits When YOu were Born For Greater Heights'
+
+
+:"
+   
+"
+
+class #53
+js class #07
+
+' The Measure Of Life of is not in this  its duration'

@@ -1,0 +1,62 @@
+.left-side{
+    margin-top: 100px;
+    margin-left: -100px;
+    margin: auto;
+}
+
+
+
+.hero-img{
+    margin: 0;
+    width: 80%;
+    height:540px
+    ;
+    object-fit: fill;
+}
+
+
+
+
+
+#Second{
+    height: 120px;
+    width: 96vw;
+     background-color: rgba(182, 239, 73, 0.2);
+    margin-left: -89px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+.carosal{
+    width: 98%;
+    margin: auto;
+}
+
+
+
+.success{
+        background-color: #b6ef4933;
+}
+
+
+
+.card-body{
+     background-color: #b6ef4933;
+}
+
+
+
+.contain{
+    width: 95vw;
+    height: 50vh;
+    background-color: antiquewhite;
+    margin: auto;
+}
