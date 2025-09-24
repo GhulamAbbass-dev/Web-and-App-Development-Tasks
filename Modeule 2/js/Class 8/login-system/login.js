@@ -21,7 +21,7 @@ if (choice === 1) {  // Signup
     let login_user = prompt("Enter your user-name or email");
     let login_pass = prompt("Enter your password");
 
-    if ((login_user === user_signup || login_user === gmail) && login_pass === pass) {
+    if ((login_user === user_signup && login_pass === pass) {
         alert("You have successfully accessed the website");
     } else if (login_user !== user_signup && login_user !== gmail) {
         alert("Username or email is incorrect");
