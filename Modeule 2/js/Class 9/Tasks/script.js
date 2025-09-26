@@ -84,21 +84,21 @@
 
 
 
-// let salary=prompt("Enter Your Salary ");
+let salary=prompt("Enter Your Salary ");
 
-// if(salary <50000){
+if(salary <50000){
 
-//     const bonus=salary*0.20;
-//     document.write( "Your Salay is"+salary+"So you get the 20%per Bones now your Amount is:",+(salary)+(bonus));
-// }else if( salary >=50000 && salary<=100000){
-//     const bonus=salary*0.10;
-//     document.write("Your salary is " +salary+"So You get the 10%per Bonues Now your Amount is:",+(salary)+(bonus));
-// }else if (salary > 100000){
-//     document.write("Soory! You're NOT Get The Bonues")
-// }else{
-//     alert("Invlid Number ");
+    const bonus=salary*0.20;
+    document.write( "Your Salay is"+salary+"So you get the 20%per Bones now your Amount is:",+(salary)+(bonus));
+}else if( salary >=50000 && salary<=100000){
+    const bonus=salary*0.10;
+    document.write("Your salary is " +salary+"So You get the 10%per Bonues Now your Amount is:",+(salary)+(bonus));
+}else if (salary > 100000){
+    document.write("Soory! You're NOT Get The Bonues")
+}else{
+    alert("Invlid Number");
     
-// }
+}
 
 
 
@@ -217,19 +217,19 @@
 // Otherwise: "Pass".
 
 
-let stu=prompt("Enter Your Name Student!");
-let mark=prompt("Enter Your Marks ");
-let attendance=prompt("Enter your Attendence");
+// let stu=prompt("Enter Your Name Student!");
+// let mark=prompt("Enter Your Marks ");
+// let attendance=prompt("Enter your Attendence");
 
-if(mark<=40 && attendance<=40){
-    document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Fail due to both");
-}else if(mark>=41 && attendance < 75){
-    document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Pass");
-
-
-}else if(mark>85 && attendance < 85){
-    document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Woo BOOM");
+// if(mark<=40 && attendance<=40){
+//     document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Fail due to both");
+// }else if(mark>=41 && attendance < 75){
+//     document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Pass");
 
 
-}
+// }else if(mark>85 && attendance < 85){
+//     document.write("STD:Name "+stu+"<br> STD Marks:"+mark+"<br> STD Attendence:"+attendance+"<br> Result: Woo BOOM");
+
+
+// }
 
