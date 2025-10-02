@@ -48,11 +48,11 @@
 
 
 
-function sum(a,b){
-    console.log("console output",a+b);
-    // returning the value
-    // function always returns value at the end
-    return a+b; // when we call the function in log then we get return value as a log
-}
-// console.log(sum(50,10));
-sum(50,10)
+// function sum(a,b){
+//     console.log("console output",a+b);
+//     // returning the value
+//     // function always returns value at the end
+//     return a+b; // when we call the function in log then we get return value as a log
+// }
+// // console.log(sum(50,10));
+// sum(50,10)
