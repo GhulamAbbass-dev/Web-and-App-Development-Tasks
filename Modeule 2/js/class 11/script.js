@@ -52,3 +52,50 @@ const sum = (a,b) => {
 // console.log(sum(5,4));
 sum(5,7)
 
+
+// name Funcation
+function Grade(a,b){
+    return a+b;
+}
+Grade(3,4);
+
+// expersation funcation
+
+const eli=function(a,b){
+    return a-b;
+}
+eli(3,4);
+
+
+// arrow funcstion
+
+const aa=(a,b)=>{
+    console.log(a+b);
+    return a+b;
+}
+
+aa(12,44)
+
+
+// name funcation
+
+function name(params) {
+    
+}
+
+
+function toggleLight(ison){
+    if(ison){
+        console.log("Light is ON 💡");
+        
+    }else{
+        console.log("Light is OFF 🌑");
+        
+    }
+}
+
+toggleLight(confirm("enter you "));
+if(toggleLight==true){
+    toggleLight(true)
+}
+
